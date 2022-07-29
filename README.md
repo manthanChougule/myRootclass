@@ -3,10 +3,10 @@
 required to run: install make file and in directory of program open cmd and type "make".
 
 # to run code you can type: 
-# g++ -c main.cpp
-# g++ -c myRootclass.cpp
-# g++ main.o myRootclass.o -o myRootclass
-# to run ./myRootclass
+#             g++ -c main.cpp
+#             g++ -c myRootclass.cpp
+#             g++ main.o myRootclass.o -o myRootclass
+#             to run ./myRootclass
                           
 
 
@@ -21,15 +21,15 @@ output is placed at output_[Method_name].txt
         last Line has no of iterations required for finding the root and ans root.
          
          
-fixed_point Method:   
+# fixed_point Method:   
                       in myRootclass.cpp -> function (**required**)
                       ( g of function of x -> g(x))                                             
     
-newtonRaphson Method: 
+# newtonRaphson Method: 
                       in myRootclass.cpp -> function and dfucntion (**required**)
                       (function of x -> f(x)) (derivative  of function of x -> d(f(x))) 
 
-Bisection Method:     
+# Bisection Method:     
                       in myRootclass.cpp -> gfunction (**required**)
                       (function of x -> f(x))
 
