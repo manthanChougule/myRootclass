@@ -1,4 +1,15 @@
 # myRootclass 
+
+required to run: install make file and in directory of program open cmd and type "make".
+
+# to run code you can type: 
+# g++ -c main.cpp
+# g++ -c myRootclass.cpp
+# g++ main.o myRootclass.o -o myRootclass
+# to run ./myRootclass
+                          
+
+
 contains root finding methods like: fixed_point Method, newtonRaphson Method, Bisection Method.
          Input is taken from Input_[Method_name].txt
          for fixed point input file contains initial value, allowed error. (separated by space only)
