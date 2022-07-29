@@ -1,0 +1,15 @@
+initial values a :0, b :1, allowed errors are :0.0002
+Iteration no:  1, mid point = 0.5
+Iteration no:  2, mid point = 0.75
+Iteration no:  3, mid point = 0.625
+Iteration no:  4, mid point = 0.6875
+Iteration no:  5, mid point = 0.71875
+Iteration no:  6, mid point = 0.734375
+Iteration no:  7, mid point = 0.742188
+Iteration no:  8, mid point = 0.738281
+Iteration no:  9, mid point = 0.740234
+Iteration no:  10, mid point = 0.739258
+Iteration no:  11, mid point = 0.73877
+Iteration no:  12, mid point = 0.739014
+Iteration no:  13, mid point = 0.739136
+after 13 iterations, root =0.739136

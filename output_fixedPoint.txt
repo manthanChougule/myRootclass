@@ -1,0 +1,23 @@
+initial values a :0.5, allowed errors are :0.0002
+Iteration no:  1, x = 0.5
+Iteration no :  2, x = 0.877583
+Iteration no :  3, x = 0.639013
+Iteration no :  4, x = 0.802685
+Iteration no :  5, x = 0.694778
+Iteration no :  6, x = 0.768196
+Iteration no :  7, x = 0.719165
+Iteration no :  8, x = 0.752356
+Iteration no :  9, x = 0.730081
+Iteration no : 10, x =  0.74512
+Iteration no : 11, x = 0.735006
+Iteration no : 12, x = 0.741827
+Iteration no : 13, x = 0.737236
+Iteration no : 14, x =  0.74033
+Iteration no : 15, x = 0.738246
+Iteration no : 16, x =  0.73965
+Iteration no : 17, x = 0.738705
+Iteration no : 18, x = 0.739341
+Iteration no : 19, x = 0.738912
+Iteration no : 20, x = 0.739201
+Iteration no : 21, x = 0.739007
+after no : 21 iterations, root =0.739007
